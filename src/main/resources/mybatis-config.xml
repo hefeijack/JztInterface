@@ -8,9 +8,9 @@
             <transactionManager type="JDBC"/>
             <dataSource type="POOLED">
                 <property name="driver" value="com.ibm.db2.jcc.DB2Driver"/>
-                <property name="url" value="jdbc:db2://154.11.160.152:60000/SJCKDB"/>
-                <property name="username" value="SJCK"/>
-                <property name="password" value="sjck"/>
+                <property name="url" value="jdbc:db2://ip:60000/SJCKDB"/>
+                <property name="username" value="user"/>
+                <property name="password" value="password"/>
             </dataSource>
         </environment>
     </environments>
