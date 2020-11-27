@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jzt.mapper.RealEstateValuationMapper">
+
+    <select id="getRealEstateValuation" resultType="com.jzt.entity.RealEstateValuation" parameterType="com.jzt.entity.RealEstateValuation">
+        select SYQR,SYQZH,CFZT,DYZT,ZQSE,FCPGJE from SJRH.SFW_FCFXHC where SYQR=#{name} and SYQZH=#{cerno} and status=0
+    </select>
+
+
+</mapper>

@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Main-Class: com.jzt.JztApplication
+Class-Path: tomcat-embed-el-9.0.27.jar spring-context-5.2.1.RELEASE.jar 
+ db2jcc4-10.1.jar jackson-core-2.10.0.jar spring-boot-starter-web-2.2.1.
+ RELEASE.jar log4j-api-2.12.1.jar android-json-0.0.20131108.vaadin1.jar 
+ opentest4j-1.2.0.jar assertj-core-3.13.2.jar spring-aop-5.2.1.RELEASE.j
+ ar spring-webmvc-5.2.1.RELEASE.jar spring-jcl-5.2.1.RELEASE.jar junit-4
+ .12.jar snakeyaml-1.25.jar tomcat-embed-websocket-9.0.27.jar jakarta.va
+ lidation-api-2.0.1.jar classmate-1.3.4.jar spring-boot-starter-validati
+ on-2.2.1.RELEASE.jar log4j-to-slf4j-2.12.1.jar logback-core-1.2.3.jar s
+ pring-boot-starter-logging-2.2.1.RELEASE.jar spring-test-5.2.1.RELEASE.
+ jar hamcrest-2.1.jar spring-expression-5.2.1.RELEASE.jar db2java-8.1.ja
+ r spring-boot-test-2.2.1.RELEASE.jar spring-beans-5.2.1.RELEASE.jar byt
+ e-buddy-agent-1.9.10.jar junit-platform-commons-1.5.2.jar spring-boot-2
+ .2.1.RELEASE.jar spring-boot-starter-tomcat-2.2.1.RELEASE.jar junit-jup
+ iter-api-5.5.2.jar tomcat-embed-core-9.0.27.jar mockito-junit-jupiter-3
+ .1.0.jar spring-web-5.2.1.RELEASE.jar spring-core-5.2.1.RELEASE.jar spr
+ ing-boot-starter-2.2.1.RELEASE.jar jackson-datatype-jsr310-2.10.0.jar j
+ akarta.annotation-api-1.3.5.jar slf4j-api-1.7.25.jar hibernate-validato
+ r-6.0.18.Final.jar spring-boot-starter-json-2.2.1.RELEASE.jar hamcrest-
+ core-1.3.jar jsonassert-1.5.0.jar jul-to-slf4j-1.7.29.jar accessors-sma
+ rt-1.2.jar mockito-core-3.1.0.jar apiguardian-api-1.1.0.jar jackson-dat
+ atype-jdk8-2.10.0.jar junit-jupiter-params-5.5.2.jar junit-vintage-engi
+ ne-5.5.2.jar jakarta.activation-api-1.2.1.jar logback-classic-1.2.3.jar
+  junit-platform-engine-1.5.2.jar objenesis-2.6.jar json-path-2.4.0.jar 
+ jakarta.xml.bind-api-2.3.2.jar spring-boot-test-autoconfigure-2.2.1.REL
+ EASE.jar byte-buddy-1.9.10.jar jackson-module-parameter-names-2.10.0.ja
+ r jackson-databind-2.10.0.jar jackson-annotations-2.10.0.jar spring-boo
+ t-starter-test-2.2.1.RELEASE.jar asm-5.0.4.jar mybatis-3.4.6.jar json-s
+ mart-2.3.jar db2jcc_license_cu-9.7.jar jboss-logging-3.3.2.Final.jar ju
+ nit-jupiter-engine-5.5.2.jar spring-boot-autoconfigure-2.2.1.RELEASE.ja
+ r xmlunit-core-2.6.3.jar junit-jupiter-5.5.2.jar
+
